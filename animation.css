@@ -1,6 +1,6 @@
 *{
-  margin: 0%;
-  padding: 0%;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 body
@@ -18,23 +18,23 @@ background-color: #111;
 }
 @keyframes Anime{
     0%{
-        top: 0%;
-        left: 0%;
+        top: 0px;
+        left: 0px;
         background-color: red;
     }
     25%{
-         top: 0%;
-         left: 1200px;
+         top: 0px;
+         left: 1300px;
          background-color: antiquewhite;
     }
     50%{
-         top: 510px;
-         left: 1055px;
+         top: 600px;
+         left: 1300px;
          background-color: darkgreen;
     }
     75%{
-         top: 510px;
-         left: px;
+         top: 600px;
+         left: 0px;
          background-color: blue;
     }
     100%{
